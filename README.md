@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-I have a master's degree in data science and I'm trying to find some interesting ways to put it to use. Particular areas of interest to me are Natural Language Processing, Network Science and Process Mining.
-I also have a degree in psychology. My interest in behavioural research has lead me towards quant-UX/CRO
+Data Scientist with an MSc in Data Science and a background in Psychology.
+
+I work at the intersection of machine learning, behavioural analysis and business processes, with particular interests in NLP, process mining, network science and quantitative UX/CRO.
+
+My projects include machine learning applications, process mining of business event logs, network analysis, NLP and quantitative UX/CRO analytics.
 
 ## Ongoing projects:
 - [pose_search_app](https://github.com/Zargon42/pose_search_app): a computer vision app that uses a fastapi framework to identify the image in a database with the closest pose vector to the user uploaded image.
