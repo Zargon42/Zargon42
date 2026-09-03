@@ -12,6 +12,6 @@ My projects include machine learning applications, process mining of business ev
 - [Oly-Fencing-Networks](https://github.com/Zargon42/Oly-Fencing-Networks): A network science approach to the analysis of Olympic fencing results.
 
 ## Completed projects
-I have also uploaded some exemplary projects, most of which I completed as part of my degree
+- [Superstore Global Dataset](https://github.com/Zargon42/Superstore-Analysis): SQL and Power BI analysis of the Sample Global Superstore Dataset
 - [Olympic-fencing](https://github.com/Zargon42/Olympic-fencing): linear regression applied to a women's Olympic fencing dataset, implemented in C#
 - [Process-Mining-Project](https://github.com/Zargon42/process-mining-project): Hands on project analysing a real business' procurement event dataset using process mining techniques
